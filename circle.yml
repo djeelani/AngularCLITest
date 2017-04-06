@@ -2,4 +2,4 @@ test:
     
   override:
    
-    - npm test ./client/karma.conf.js --single-run
+    - npm test ./karma.conf.js --single-run
